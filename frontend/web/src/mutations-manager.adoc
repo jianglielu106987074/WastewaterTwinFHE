@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\mutations-manager.adoc
+// Generated at: 2025-10-14T09:17:34.991Z
